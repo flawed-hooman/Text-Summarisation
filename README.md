@@ -46,3 +46,7 @@ Extractive Text summarization refers to extracting (summarizing) out the relevan
 
 ## GPT2
 GPT-2 model with 1.5 Billion parameters is a large transformer-based language model. It's trained for predicting the next word. So, we can use this specialty to summarize the data.
+
+## Note:
+Run main.py for python3, else test by running "summarize.py" or the notebook named as "Text Summarizer Notebook.ipynb"<br>
+**pytldr and pyteaser doesn't work for python3
