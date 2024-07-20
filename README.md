@@ -1,5 +1,5 @@
 # Extractive text summarization
-various ways to summarise text using the libraries available for Python
+Various ways to summarise text using the libraries available for Python :
   1. pyteaser
   2. sumy
   3. gensim
@@ -8,7 +8,7 @@ various ways to summarise text using the libraries available for Python
   6. BERT
   7. GPT2
   
-## INSTALL
+## INSTALLATION
 pip install sumy<br>
 pip install gensim<br>
 pip install pyteaser<br>
