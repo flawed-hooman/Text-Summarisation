@@ -1,7 +1,5 @@
 '''
 pip install pyteaser
-==> run the code directly
-You can also assign your own text and title and call the Summarize(title,text)
 '''
 from pyteaser import Summarize, SummarizeUrl
     
@@ -16,15 +14,3 @@ print ()
 print ("*"*20, "TWO SENTENCE SUMMARY", "*"*20)
 print (ranks[:2])
 
-
-
-
-'''
-OUTPUT:
-******************** ONE SENTENCE SUMMARY ********************
-The contribution of cloud computing and mobile computing technologies lead to the newly emerging mobile cloud com- puting paradigm.
-()
-******************** TWO SENTENCE SUMMARY ********************
-[u'The contribution of cloud computing and mobile computing technologies lead to the newly emerging mobile cloud com- puting paradigm.', u'Three major approaches have been pro- posed for mobile cloud applications: 1) extending the access to cloud services to mobile devices; 2) enabling mobile de- vices to work collaboratively as cloud resource providers; 3) augmenting the execution of mobile applications on portable devices using cloud resources.']
-(venv) Pemas-MacBook-Air:Machine_Learning-NLP_programs pemagurung$ 
-'''
