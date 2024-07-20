@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.pyc
+.cpython-36.pyc
+*.pyc
+*~
+*.swp
+.idea/
